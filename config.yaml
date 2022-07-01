@@ -9,20 +9,18 @@ properties:
     type: string
     format: uri
     description: The URL of the site to start scraping
-    default: https://www.ssa.gov/foia/readingroom.html
+    default: https://nola.gov/civil-service/commission/rules/
   project:
     type: number
     description: >-
       The DocumentCloud project ID of the project the documents should be uploaded in to
-    default: 207338
+    default: 208680
   keywords:
     type: array
     items:
       type: string
     description: Keywords to search and notify on
     default:
-      - court
-      - foia
   filetypes:
     type: array
     items:
