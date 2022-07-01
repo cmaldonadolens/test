@@ -9,7 +9,7 @@ properties:
     type: string
     format: uri
     description: The URL of the site to start scraping
-    default: https://docs.google.com/spreadsheets/d/1VEjsNDSPhYTRh48qWCuTZO41NnrVFIvhYgS5crZalTs/edit?usp=sharing
+    default: https://docs.google.com/spreadsheets/d/e/2PACX-1vRMANjkxM-a_Uj0beRoq-_LmWou2pE6o061GNvTU9bbfSy-5nzBy1efCMB-vnRCx-cHnboAdqkIDQzL/pubhtml
   project:
     type: number
     description: >-
