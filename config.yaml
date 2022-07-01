@@ -9,7 +9,7 @@ properties:
     type: string
     format: uri
     description: The URL of the site to start scraping
-    default: https://nola.gov/civil-service/commission/rules/
+    default: https://docs.google.com/spreadsheets/d/1VEjsNDSPhYTRh48qWCuTZO41NnrVFIvhYgS5crZalTs/edit?usp=sharing
   project:
     type: number
     description: >-
